@@ -1,0 +1,8 @@
+# I recommend using full path for 'path'
+path: /Users/glenyu/github/findingwaldo-yolov8
+train: 'train/images'
+val: 'validate/images'
+
+# class names
+names:
+  0: 'waldo'
