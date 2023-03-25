@@ -128,5 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# YOLOv8
+# custom
+.DS_Store
 labels.cache
