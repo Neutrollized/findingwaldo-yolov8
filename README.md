@@ -38,5 +38,5 @@ python detect.py
 <img class="icon-image" height="600" src="./images/results.png" alt="results" />
 </a>
 <a>
-<img class="icon-image" height="600" src="./images/val_batch1_pred.jpg" alt="val_batch1_pred" />
+<img class="icon-image" height="800" src="./images/val_batch1_pred.jpg" alt="val_batch1_pred" />
 </a>
