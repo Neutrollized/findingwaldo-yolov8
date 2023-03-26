@@ -3,6 +3,10 @@ This is the data and code behind training the ML object detection model for [fin
 
 
 ## How-to
+### Requirements
+- python3 (preferred 3.10.x or newer)
+- `pip install -r requirements.txt`
+
 ### Training
 - get training data:
 ```
