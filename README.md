@@ -26,13 +26,13 @@ python train.py
 ```
 python detect.py
 ```
-- repo includes the nano sized model which finds Waldo with 0.54 confidence (vs 0.77 with a medium and 0.82 with xlarge) on the provided test image
+- repo includes the nano sized model and test image
 
 ## Stats/metrics of the current deployed model (XLarge)
 - trained in [Vertex AI Workbench](https://cloud.google.com/vertex-ai-workbench) with **n1-standard-4** machine type with an NVIDIA Tesla T4 GPU
 
 <a>
-<img class="icon-image" height="600" src="./images/yolov8x_50e_b4.png" alt="vertexai_workbench" />
+<img class="icon-image" height="600" src="./images/yolov8x_30e_b4.png" alt="vertexai_workbench" />
 </a>
 <a>
 <img class="icon-image" height="600" src="./images/results.png" alt="results" />
